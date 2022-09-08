@@ -1,0 +1,56 @@
+
+.header{
+    background-color: #ebebeb;
+    width: 100%;    
+    display: inline-block;
+}
+
+.menu-hambuguer{
+    
+    width: 40px;
+    height: 40px;
+    padding: 10px; 
+    cursor: pointer;
+
+}
+
+.user{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+}
+
+.header h3{
+    display: inline;
+    text-align: center;
+    position: absolute;
+   
+    
+}
+
+#menuPrincipal{
+    width: 25%;
+    height: 100%;
+    position: absolute;
+    background-color: rgb(179, 185, 185);
+    
+}
+
+.menu li{
+    font-size: 20px;
+    list-style: none;
+    text-decoration: none;
+    background-color: rgb(136, 136, 136);
+    padding: 10px;
+    width: 77%;
+    margin: 2.5px;
+    border-radius: 10px;
+    text-align: center;
+    color: #ffffff;
+   
+}
+
+a {
+    text-decoration: none;
+  }
+
